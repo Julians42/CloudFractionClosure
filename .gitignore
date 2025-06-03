@@ -1,0 +1,5 @@
+ClimaAtmos.jl
+output
+*.txt
+*.nc
+__pycache__
