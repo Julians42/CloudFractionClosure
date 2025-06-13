@@ -3,3 +3,7 @@ output
 *.txt
 *.nc
 __pycache__
+*.jld2
+ai/
+*.csv
+*.png
